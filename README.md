@@ -1,7 +1,6 @@
 # Hi, I'm Jude 👋
 
 💼 Power Platform & AI Solutions Developer
-🌍 Open to opportunities in Europe
 
 ## 🔧 Tech Stack
 - Power Apps (Canvas & Code Apps)
