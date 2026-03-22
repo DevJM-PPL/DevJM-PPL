@@ -1,6 +1,8 @@
 # Hi, I'm Jude 👋
 
 💼 Power Platform & AI Solutions Developer
+🚀 Proficient in React-based Power Apps, AI Agents, and Automation
+🌍 Open to opportunities in Europe
 
 ## 🔧 Tech Stack
 - Power Apps (Canvas & Code Apps)
