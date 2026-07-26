@@ -2,7 +2,7 @@
 
 💼 Power Platform & AI Solutions Developer
 🚀 Proficient in React-based Power Apps, AI Agents, and Automation
-🌍 Open to opportunities in Europe
+🌍 Open to opportunities in Europe and Americas
 
 ## 🔧 Tech Stack
 - Power Apps (Canvas & Code Apps)
@@ -11,6 +11,8 @@
 - React.js & Node.js
 - AI Agent Development
 - Microsoft 365 & Dataverse
+- Copilot Studio
+- ServiceNow
 
 ## 💡 What I Do
 I build scalable enterprise applications using Microsoft Power Platform combined with modern development (React, Node.js) and AI-assisted workflows ("vibe coding").
